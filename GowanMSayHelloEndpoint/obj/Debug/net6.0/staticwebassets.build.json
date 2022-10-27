@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "exG1cfRY6rOZV9D8GbSLGu/0sLcRI4+H3kRL2OXyr/M=",
+  "Source": "GowanMSayHelloEndpoint",
+  "BasePath": "_content/GowanMSayHelloEndpoint",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
